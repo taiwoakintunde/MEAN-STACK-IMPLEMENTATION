@@ -1,4 +1,3 @@
-# Project4
 ## MEAN STACK DEPLOYMENT TO UBUNTU IN AWS
 
 I created an EC2 instance of t2.micro with Ubuntu server 20.4 LTS (HVM) image in AWS management console
